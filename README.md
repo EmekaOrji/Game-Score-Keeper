@@ -1,4 +1,4 @@
-#Score Tracker
+# Score Tracker
 
 Save the score of Two Players in a Game
 
